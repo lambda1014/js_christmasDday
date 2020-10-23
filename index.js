@@ -1,4 +1,4 @@
-import "./styles.css";
+//import "./styles.css";
 const clock = document.querySelector(".js-clock");
 const DAY = 1000 * 60 * 60 * 24;
 const HOUR = 1000 * 60 * 60;
